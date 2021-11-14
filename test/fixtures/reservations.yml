@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  desired_date: 2021-11-13
+  desired_time: 2021-11-13 23:38:32
+  special_request: MyString
+  tour_id: 1
+  user_id: 1
+
+two:
+  desired_date: 2021-11-13
+  desired_time: 2021-11-13 23:38:32
+  special_request: MyString
+  tour_id: 1
+  user_id: 1
